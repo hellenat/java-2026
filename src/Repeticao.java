@@ -1,6 +1,6 @@
 package basico;
 
-public class Basico {
+public class Repeticao {
     public static void main(String[] args) {
         // Exemplo de for () crescente
         System.out.println("Lista de 1 até 10");
